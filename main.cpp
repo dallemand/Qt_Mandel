@@ -8,4 +8,6 @@ int main(int argc, char *argv[])
     MandelbrotWidget widget;
     widget.show();
     return app.exec();
+
+    //test de modif
 }
